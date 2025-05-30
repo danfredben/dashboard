@@ -1,4 +1,2 @@
 streamlit
 pandas
-*.log
-__pycache__/
